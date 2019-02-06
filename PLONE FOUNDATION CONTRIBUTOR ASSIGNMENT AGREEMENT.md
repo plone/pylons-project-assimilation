@@ -1,9 +1,6 @@
-================
-PLONE FOUNDATION
-================
+# PLONE FOUNDATION
 
-CONTRIBUTOR ASSIGNMENT AGREEMENT
-================================
+## CONTRIBUTOR ASSIGNMENT AGREEMENT
 
 For good and valuable consideration,
 receipt of which I acknowledge,
