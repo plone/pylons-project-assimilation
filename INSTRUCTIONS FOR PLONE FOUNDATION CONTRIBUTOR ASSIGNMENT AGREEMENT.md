@@ -1,6 +1,4 @@
-==================================================================
-INSTRUCTIONS FOR PLONE FOUNDATION CONTRIBUTOR ASSIGNMENT AGREEMENT
-==================================================================
+# INSTRUCTIONS FOR PLONE FOUNDATION CONTRIBUTOR ASSIGNMENT AGREEMENT
 
 When you write or make changes to software programs, you often automatically obtain a copyright in what you wrote.
 The way to assign to the Plone Foundation the copyright in software that you wrote or changes that you made to Plone Foundation software is to send us a signed Assignment Agreement.
